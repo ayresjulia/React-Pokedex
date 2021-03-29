@@ -1,0 +1,11 @@
+.container {
+	display: grid;
+	grid-template-columns: auto auto;
+	text-align: center;
+}
+
+.Pokedex-card {
+	display: grid;
+	grid-template-columns: auto auto;
+	justify-content: space-evenly;
+}
